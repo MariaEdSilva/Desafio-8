@@ -1,0 +1,122 @@
+.caixa1{
+
+    width: 200px;
+
+    height: 50px;
+
+    padding: 20px;
+
+    border: 1px solid black;
+
+    margin-top: 100px;
+
+    margin-bottom: 100px;
+
+    margin-left: 80px;
+
+    margin-right: 150px;
+
+    background-color:rgb(175, 2, 2) ;
+
+}
+
+.caixa2{
+
+    width: 200px;
+
+    height: 50px;
+
+    margin: 80px;
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+
+    padding-left: 80px;
+
+    padding-right: 30px;
+
+    border: 1px solid black;
+
+    background-color:rgb(202, 108, 0) ;
+
+}
+
+.caixa3{
+    width: 300px;
+
+    height: 300px;
+
+    margin: 80px;
+
+    padding: 10px;
+
+    border: 1px solid black;
+
+    background-color:rgb(219, 216, 0) ;
+
+}
+
+.caixa4{
+
+    width: 200px;
+
+    height: 100px;
+
+    margin: 80px;
+
+    padding: 50px;
+
+    border: 1px solid black;
+
+    background-color:rgb(35, 148, 0) ;
+
+}
+
+.caixa5{
+
+    height: 200px;
+
+    width: 50%;
+
+    margin: 80px;
+
+    padding: 50px;
+
+    border: 1px solid black;
+
+    background-color:rgb(0, 105, 190) ;
+
+}
+
+.caixa6{
+
+    width: 500px;
+
+    height: 100px;
+
+    margin: 80px;
+
+    padding: 50px;
+
+    border: 1px solid black;
+
+    background-color:rgb(125, 1, 141) ;
+}
+
+.caixa7{
+
+    height: 100px;
+
+    width: 200px;
+
+    box-sizing: border-box;
+
+    background-color: rgb(197, 70, 159);
+
+    padding-right: 40px;
+
+    padding-left: 40px;
+
+    border:1px solid rgb(0, 0, 0);
+}
